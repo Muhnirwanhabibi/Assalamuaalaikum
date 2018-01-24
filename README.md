@@ -4,38 +4,32 @@ Salah satu tanda beriman adalah orang-orang yang bergetar hatinya ketika mendeng
 2.    Bertambah imannya ketika mendengar ayat Allah SWT (mengimani kitab Allah yaitu Al-quran)
 Bertambahnya iman seseorang yang mendengar ayat-ayat Allah karena dia tahu akan kebenaran ayat-ayat Allah dan keluhurannya. Ketika dia mendengar ayat-ayat Allah maka dia akan menyimak kandungannya untuk menjadi pedoman dia hidup dan menjadikannya bertambah yakin kepada Allah sebagi Tuhan Semesta Alam. Bukan hanya sekedar menyimak dan mendengar karena dia akan melaksankan atau mengamalkan apapun yang dia dengar berdasarkan ilmu yang dia miliki. Karena sesunggunya sangat banyak pelajaran dan peringatan yang terkandung di dalam Al-quran. 
 
-You can use the [editor on GitHub](https://github.com/Muhnirwanhabibi/Assalamuaalaikum/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+3.    Orang yang mendirikan shalat dengan kusyu’
+Sangat banyak orang islam yang mengerjakan shalat siang dan malam dan bahkan shalat sunat sekalipun. Bukan hanya sekedar shalat akan tetapi harus kusyu’ didalam shalatnya. Tidak semua orang yang dapat kusyuk didalam shalatnya karena hanya orang yang benar-benar beriman sajalah yang mampu melakukannya seperti yang difrimankan Allah dalam Al-quran
+Kusyuk bukan hanya sekedar kata-kata, tapi memang kita mengerjakan shalat dengan kusyu’. Shalat kusyu’ adalah shalat yang dapat menghilangkan pemikiran yang di luar shalat. Apakah kita sudah kusyu’ dalam shalat? Kekusyukan memang sangat sulit dikerjakan, namun apasalahnya kita berusaha untuk kusyu’ dan menjadi salah satu orang yang benar-benar beriman.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+5.    Orang yang mengeluarkan zakat dan memberi sedekah (infaq) dengan ikhlas
+Dalam ayat lain Allah berfirman:
+Dan orang-orang yang menunaikan zakat, (Qs. Al-Mu’minum ayat 4)
 
-### Markdown
+Zakat dan sedekat merupakan kewajiban bagi kita yang mampu. Tidak banyak dari orang yang mampu mengeluarkan zakat dan sedekah akan melakukannya karena mereka kikir dan takut miskin. Padahal zakat atau sedekah tidak akan mengurangi harta kita bahkan Allah akan memberikan keberkatan kepada harta yang kita miliki.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Daripada Abu Hurairah r.a berkata bahwa Rasulullah SAW bersabda yang maksudnya : “ Sedekah tidak mengurangkan harta. Allah tidak melebihkan seseorang hamba dengan kemaafan-Nya melainkan kemuliaan dan tidak merendahkan diri seseorang melainkan Allah mengangkatnya.” (Muslim, ad-Darimi dan Ahmad)
+Dan Allah SWT. juga berfirman:
+Perumpamaan (nafkah yang dikeluarkan oleh) orang-orang yang menafkahkan hartanya di jalan Allah adalah serupa dengan sebutir benih yang menumbuhkan tujuh bulir, pada tiap-tiap bulir: seratus biji. Allah melipat gandakan (ganjaran) bagi siapa yang Dia kehendaki. Dan Allah Maha Luas (karunia-Nya) lagi Maha Mengetahui. (Qs. Al Baqarah Ayat 261)
 
-```markdown
-Syntax highlighted code block
+Selain itu, sedekah merupakan amalan yang tidak akan putus-putus pahalanya selama kita melakukannnya dengan ikhlas. Inilah tanda orang yang beriman yaitu orang yang suka menfkahkan hartanya di jalan Allah secara ikhlas.
 
-# Header 1
-## Header 2
-### Header 3
+6.    Orang-orang yang menepati janji
+Allah SWT. juga berfirman:
+Dan orang-orang yang memelihara amanat-amanat (yang dipikulnya) dan janjinya, (Qs. Al-Mu’minum ayat 8)
 
-- Bulleted
-- List
+Seperti yang disebutkan dalam surat Al-baqarah ayat 177 dan Surat Al-mu’minun diatas bahwa orang yang menepati janji adalah termasuk orang yang beriman. Orang yang menepati janji adalah orang yang takut akan azzab Allah di akhirat nanti dan akan di minta pertanggungjawaban. Selain itu, orang yang mengikiri janji dikategorikan sebagi orang yang munafik. Maka jadilah kita orang yang menepati janji dan memelihara amanat sehingga menjadi orang yang beriman. apalagi menjadi pemimpin, karena setiap apa yang di pimpin akan diminta  pertanggungjawabannya atas apa yang dipimpin. 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Sekian Untuk Materi Ciri-Ciri Orang Beriman Kali Ini. Sekian Wassalamualaikum
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Muhnirwanhabibi/Assalamuaalaikum/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact Person
+E-Mail : habibinirwan@gmail.com
